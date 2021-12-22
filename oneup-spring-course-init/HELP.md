@@ -1,5 +1,9 @@
 # Getting Started
 
+## Presented by ONEUP
+
+In this project, we will learn how to use the Model and Controller in an application created using Spring.
+
 ### Reference Documentation
 
 For further reference, please consider the following sections:
