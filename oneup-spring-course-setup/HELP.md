@@ -4,6 +4,8 @@
 
 In this project, we will learn how to create an application using Spring and launch it
 
+![](https://i.ibb.co/qjMqTcH/onup-logo.png)
+
 ### Reference Documentation
 
 For further reference, please consider the following sections:
