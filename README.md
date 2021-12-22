@@ -1,1 +1,1 @@
-ONEUP
+Welcome to ONEUP Spring course
