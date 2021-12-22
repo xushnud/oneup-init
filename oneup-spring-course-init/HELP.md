@@ -4,6 +4,8 @@
 
 In this project, we will learn how to use the Model and Controller in an application created using Spring.
 
+![](https://i.ibb.co/qjMqTcH/onup-logo.png)
+
 ### Reference Documentation
 
 For further reference, please consider the following sections:
