@@ -1,5 +1,9 @@
 # Getting Started
 
+## Presented by ONEUP
+
+In this project, we will learn how to create an application using Spring and launch it
+
 ### Reference Documentation
 
 For further reference, please consider the following sections:
